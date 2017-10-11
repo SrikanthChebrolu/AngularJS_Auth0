@@ -1,0 +1,18 @@
+.btn-margin {
+    margin: 7px 3px;
+    color: white;
+}
+
+.menuButton {
+    margin-left: -12;
+    margin-right: 20;
+}
+
+.margine {
+    width: 100%
+}
+
+.flex {
+    flex: 1;
+    font-size: 30px;
+}
